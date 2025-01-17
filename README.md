@@ -1,4 +1,4 @@
-# Simple Portfolio Tracker
+# Stock Tracker
 
 ## Overview
 A web application that allows users to manage their stock holdings and track portfolio performance in real-time.
